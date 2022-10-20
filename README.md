@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobkaeHenry&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobkaeHenry)](https://github.com/jobkaeHenry/github-readme-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobkaeHenry&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobkaeHenry)](https://github.com/jobkaeHenry/github-readme-stats)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer)
 
 </div>
