@@ -1,7 +1,3 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0088CC&height=150&section=header&text=&fontSize=50)
-
 # Hi there 👋
 ---
 <div align="center" background-color="black">
@@ -13,7 +9,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobkaeHenry&layout=compact)](https://github.com/jobkaeHenry/github-readme-stats)<br><br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobkaeHenry&show_icons=true&theme=react) 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=150&section=footer)
 
 </div>
