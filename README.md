@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobkaehenry&show_icons=true&locale=en&layout=compact" alt="jobkaehenry" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jobkaehenry&show_icons=true&locale=en" alt="jobkaehenry" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobkaehenry&show_icons=true&locale=en" alt="jobkaehenry" /></p>
