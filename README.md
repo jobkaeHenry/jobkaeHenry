@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Lee</h1>
 
----
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobkaehenry&label=Profile%20views&color=0e75b6&style=flat" alt="jobkaehenry" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobkaehenry" alt="jobkaehenry" /></a> </p>
