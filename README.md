@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobkaehenry&label=Profile%20views&color=0e75b6&style=flat" alt="jobkaehenry" /> </p> -->
 
-<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobkaehenry&show_icons=true&locale=en" alt="jobkaehenry" /></span>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobkaehenry&show_icons=true&locale=en" alt="jobkaehenry" /></p>
 
 - 🌱 I’m currently learning **Typescript, Next.js ,MERN Stack**
 
