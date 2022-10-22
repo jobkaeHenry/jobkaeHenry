@@ -19,8 +19,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/준구-이-45b375223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="준구-이" height="30" width="40" /></a>
 <a href="https://instagram.com/jungu96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jungu96" height="30" width="40" /></a>
-
-//<a href="https://www.youtube.com/channel/UCjdlq6pnfH0j-Tt-wB8p_AA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="잡캐헨리" height="30" width="40" /></a>
+<!---
+<a href="https://www.youtube.com/channel/UCjdlq6pnfH0j-Tt-wB8p_AA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="잡캐헨리" height="30" width="40" /></a>
+--->
 
 </p>
 
