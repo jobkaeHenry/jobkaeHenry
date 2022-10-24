@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://jobkaehenry.tistory.com/](https://jobkaehenry.tistory.com/)
 
-- ⚡ Fun fact **I was Photographer, Designer, studying helicopter operation...etc**
+- ⚡ Fun fact **I was Photographer, Designer, studying helicopter operation, lived in Australia, have done military service in US Army base...etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
