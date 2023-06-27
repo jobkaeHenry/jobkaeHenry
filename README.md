@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js ,MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://fed-henry-portfolio.netlify.app/](https://fed-henry-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://jobkaehenry.tistory.com/](https://jobkaehenry.tistory.com/)
 
